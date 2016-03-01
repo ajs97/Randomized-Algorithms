@@ -1,0 +1,14 @@
+On running the codes on the 3 datasest,the conclusions were as follows:
+
+1.Quicksort and Not Randomized Quicksort almost gave similar times for the random test.
+But Not Randomized Quicksort took quadratic time for the wirst case (descending order).
+
+2.Bubblesort gave quadratic times for all cases (O(n^2) always).
+
+We concluded that:
+1.Quicksort : O(nlogn) average and worst case
+2.Not Randomized Quicksort:O(nlogn average,O(n^2) worst case
+3.Bubblesort : O(n^2) average and worst case.
+
+
+Later we also saw the proof ad to why Quickosrt gives nlogn running time.
