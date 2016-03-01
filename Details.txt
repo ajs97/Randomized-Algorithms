@@ -1,0 +1,7 @@
+The codes and test data are as follows:
+
+We have three codes:Bubblesort,Not Randomized Quicksort(or just quicksort) and Randomized Quicksort.
+
+There are 7 sets of test cases on which we have tested them. The first 6 are randomly generated tests with input size increasing gradually from 50 to 50000.
+The last test is the first 100000 natural numbers in descending order (worst case for BubbleSort and Not Randomized Quicksort).
+
